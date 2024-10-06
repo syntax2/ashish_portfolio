@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-{/* eslint-disable-next-line react/no-unescaped-entities */}
-<p>This isn't an error anymore</p>
-
+const nextConfig = {
+    // You can add your Next.js configurations here if needed
+    reactStrictMode: true, // Enables strict mode to catch potential problems
+  };
+  
 export default nextConfig;
+  
