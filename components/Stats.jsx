@@ -46,7 +46,7 @@ const Stats = () => {
                             >{item.text}</p>
                         </div>
                     );
-                    })};
+                    })}
                 </div>
             </div>
         </section>
