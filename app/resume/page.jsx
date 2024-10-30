@@ -110,17 +110,17 @@ const education = {
     {
       institution: "IIIT Bangalore",
       degree: "Advanced Program in DevOps",
-      duration: "2023",
+      duration: "2022 - 2023",
     },
     {
       institution: "IIIT Bangalore",
       degree: "P.G Diploma in Software Development",
-      duration: "2022 - 2023",
+      duration: "2024 - 2025",
     },
     {
       institution: "JECRC University",
-      degree: "B.Tech in Computer Science and Engineering",
-      duration: "2018 - 2022",
+      degree: "B.Tech in Computer Science",
+      duration: "2016 - 2020",
     },
   ],
 };
