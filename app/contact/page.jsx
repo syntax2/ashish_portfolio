@@ -10,21 +10,21 @@ SelectValue } from "@/components/ui/select";
 import { FaPhoneAlt, FaEnvelope, FaMapMarkerAlt } from "react-icons/fa";
 
 const info = [
-    {
-        icon: <FaPhoneAlt />,
-        title: "Phone",
-        description: "(+91) 7988682061",
-    },
-    {
-        icon: <FaEnvelope />,
-        title: "Email",
-        description: "ashishkadian239@gmail.com",
-    },
-    {
-        icon: <FaMapMarkerAlt />,
-        title: "Address",
-        description: "Uttam Nagar, New Delhi",
-    },
+  {
+    icon: <FaPhoneAlt />,
+    title: "Phone",
+    description: "(+91) 7988682061",
+  },
+  {
+    icon: <FaEnvelope />,
+    title: "Email",
+    description: "ashishkadian884@gmail.com",
+  },
+  {
+    icon: <FaMapMarkerAlt />,
+    title: "Address",
+    description: "Uttam Nagar, New Delhi",
+  },
 ];
 
 import { motion } from "framer-motion";

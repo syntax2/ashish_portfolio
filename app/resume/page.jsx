@@ -84,7 +84,7 @@ const experience = {
     },
     {
       company: "C-DAC Netpram",
-      position: "Developer (Intern)",
+      position: "Python Developer",
       duration: "Jan 2020 - July 2020",
     },
   ],
