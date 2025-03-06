@@ -41,7 +41,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "Innovative DevOps Engineer with 2+ years of experience specializing in cloud automation, SRE, and Agile methodologies. Passionate about optimizing infrastructure and implementing cutting-edge CI/CD pipelines.",
+    "Innovative DevOps Engineer with 4+ years of experience specializing in cloud automation, SRE, and Agile methodologies. Passionate about optimizing infrastructure and implementing cutting-edge CI/CD pipelines.",
   info: [
     {
       fieldName: "Name",
@@ -53,7 +53,7 @@ const about = {
     },
     {
       fieldName: "Experience",
-      fieldValue: "2+ Years",
+      fieldValue: "4+ Years",
     },
     {
       fieldName: "Email",
@@ -75,22 +75,12 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Proven track record in optimizing cloud infrastructure, implementing robust CI/CD pipelines, and enhancing system security across various organizations.",
+    "Proven track record in optimizing cloud infrastructure, implementing robust CI/CD pipelines, Monitoring Governance and enhancing system security across various top Enterprises and Startups.",
   items: [
     {
-      company: "Teradata",
-      position: "DevOps Engineer",
-      duration: "July 2023 - Present",
-    },
-    {
-      company: "IIT Bombay",
-      position: "DevOps Engineer (Intern)",
-      duration: "May 2023 - June 2023",
-    },
-    {
-      company: "SachTak",
-      position: "DevOps Engineer (Intern)",
-      duration: "Jan 2023 - April 2023",
+      company: "Freelancer",
+      position: "DevOps/SRE/Cloud Architect",
+      duration: "2021 - Present",
     },
     {
       company: "C-DAC Netpram",
@@ -107,6 +97,11 @@ const education = {
   description:
     "Solid educational background in Computer Science and specialized training in DevOps practices.",
   items: [
+    {
+      institution: "liverpool john moores university",
+      degree: "MS in Computer Science",
+      duration: "2023 - 2025",
+    },
     {
       institution: "IIIT Bangalore",
       degree: "Advanced Program in DevOps",
