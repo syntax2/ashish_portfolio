@@ -41,7 +41,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "Innovative DevOps Engineer with 4+ years of experience specializing in cloud automation, SRE, and Agile methodologies. Passionate about optimizing infrastructure and implementing cutting-edge CI/CD pipelines.",
+    "Innovative DevOps Engineer with 2+ years of experience specializing in cloud automation, SRE, and Agile methodologies. Passionate about optimizing infrastructure and implementing cutting-edge CI/CD pipelines.",
   info: [
     {
       fieldName: "Name",
@@ -78,9 +78,24 @@ const experience = {
     "Proven track record in optimizing cloud infrastructure, implementing robust CI/CD pipelines, Monitoring Governance and enhancing system security across various top Enterprises and Startups.",
   items: [
     {
-      company: "Freelancer",
-      position: "DevOps/SRE/Cloud Architect",
-      duration: "2021 - Present",
+      company: "Teradata",
+      position: "DevOps Engineer",
+      duration: "July 2023 - Present",
+    },
+    {
+      company: "IIT Bombay",
+      position: "DevOps Engineer",
+      duration: "May 2023 - July 2023",
+    },
+    {
+      company: "SachTak",
+      position: "DevOps Engineer",
+      duration: "Feb 2023 - May 2023",
+    },
+    {
+      company: "Subject Matter Expert",
+      position: "Subject Matter Expert",
+      duration: "Dec 2020 - Aug 2021",
     },
     {
       company: "C-DAC Netpram",
