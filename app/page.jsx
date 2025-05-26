@@ -13,14 +13,12 @@ const Home = () => {
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">DevOps Engineer</span>
+            <span className="text-xl">SRE | DevOps Engineer | Trainer</span>
             <h1 className="h1 mb-6">
               Hello I&apos;m <br /> <span className="text-accent">Ashish Kadian</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              I excel at crafting elegant digital experiences for developers and I am proficient in various programming languages
-              and technologies.
-            </p>
+             I thrive at the intersection of robust system design and operational excellence, specializing in building and optimizing scalable, resilient infrastructure as an SRE and DevOps professional. Beyond technical implementation, I'm passionate about sharing complex knowledge, enabling teams and individuals to master cutting-edge technologies and best practices            </p>
             {/* button and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
             <Button
