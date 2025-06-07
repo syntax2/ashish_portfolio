@@ -27,7 +27,7 @@ const Home = () => {
               className="uppercase flex items-center gap-2"
               asChild
             >
-              <a href="/assets/Ashish Kadian DevOps.pdf" download>
+              <a href="/assets/Ashish Kadian Resume.pdf" download>
                 <span>Download CV</span>
                 <FiDownload className="text-xl" />
               </a>
